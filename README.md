@@ -1,4 +1,4 @@
-This MATLAB implementation applies a Real-Coded Genetic Algorithm (RCGA) to solve all 12 GAP datasets (gap1.txt to gap12.txt).
+Real-Coded Genetic Algorithm (RCGA) to solve all 12 GAP datasets (gap1.txt to gap12.txt).
 The algorithm simulates task assignment to servers while minimizing cost and ensuring capacity constraints.
 Each dataset may contain multiple instances, and the algorithm processes each by reading user-server configurations, cost,
 and resource matrices, and computing an optimal task-server assignment using RCGA.
