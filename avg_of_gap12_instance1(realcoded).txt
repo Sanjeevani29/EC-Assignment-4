@@ -1,0 +1,24 @@
+GAP12 - Instance 1 (Real-Coded GA) - 20 Runs
+
+Run 01: Total Benefit = 1239
+Run 02: Total Benefit = 1190
+Run 03: Total Benefit = 1259
+Run 04: Total Benefit = 1214
+Run 05: Total Benefit = 1227
+Run 06: Total Benefit = 1232
+Run 07: Total Benefit = 1170
+Run 08: Total Benefit = 1213
+Run 09: Total Benefit = 1226
+Run 10: Total Benefit = 1213
+Run 11: Total Benefit = 1182
+Run 12: Total Benefit = 1238
+Run 13: Total Benefit = 1212
+Run 14: Total Benefit = 1214
+Run 15: Total Benefit = 1223
+Run 16: Total Benefit = 1222
+Run 17: Total Benefit = 1210
+Run 18: Total Benefit = 1265
+Run 19: Total Benefit = 1195
+Run 20: Total Benefit = 1192
+
+Average Total Benefit: 1216.80
